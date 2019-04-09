@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "916383914464",
+    "firebase_url": "https://proclean-service.firebaseio.com",
+    "project_id": "proclean-service",
+    "storage_bucket": "proclean-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916383914464:android:ea576c2321bc7e88",
+        "android_client_info": {
+          "package_name": "com.example.user.procleanservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916383914464-qqqamvo5dr7rgjpmcvs7e69jjo89fp6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.procleanservices",
+            "certificate_hash": "fa5da819d77f719549f144deecf40240ede52313"
+          }
+        },
+        {
+          "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WNauar3JIJRkVTOlbbr8YZ-lFA7kscc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916383914464:android:3fc23e5b87b644b0",
+        "android_client_info": {
+          "package_name": "com.example.user.procleanservicesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916383914464-th35e9u1b6ejvrdubs24lmjtgv7h5051.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.procleanservicesapp",
+            "certificate_hash": "fa5da819d77f719549f144deecf40240ede52313"
+          }
+        },
+        {
+          "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WNauar3JIJRkVTOlbbr8YZ-lFA7kscc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916383914464:android:ec9fd81e11f6a8df",
+        "android_client_info": {
+          "package_name": "com.example.user.procleanservicesappcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916383914464-k6prpjqljgfpgq9ts8s8v634hs31lhco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.procleanservicesappcustomer",
+            "certificate_hash": "fa5da819d77f719549f144deecf40240ede52313"
+          }
+        },
+        {
+          "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WNauar3JIJRkVTOlbbr8YZ-lFA7kscc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916383914464:android:e4d2a14800b14241",
+        "android_client_info": {
+          "package_name": "com.koksheng.procleanservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916383914464-21kp96jb6h7oqisb7fdtvr2b508tqql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koksheng.procleanservices",
+            "certificate_hash": "fa5da819d77f719549f144deecf40240ede52313"
+          }
+        },
+        {
+          "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WNauar3JIJRkVTOlbbr8YZ-lFA7kscc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916383914464-2582lm71r7ephud117091u7u403u4v7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

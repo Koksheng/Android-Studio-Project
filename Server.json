@@ -1,0 +1,298 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://images.unsplash.com/photo-1534152519866-4d57e8fc9bf5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1070&q=80",
+      "name" : "Basic Home Cleaning"
+    },
+    "02" : {
+      "image" : "https://images.unsplash.com/photo-1541474490544-bf6ea60c3972?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "name" : "Move-in/out Cleaning"
+    },
+    "03" : {
+      "image" : "https://media.karousell.com/media/photos/products/2018/06/30/3pcs_bsn_3_festivals_rayacnydeepavali_packet_1530356923_52f5fe57.jpg",
+      "name" : "Festival Cleaning"
+    },
+    "04" : {
+      "image" : "https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "name" : "Office Cleaning"
+    },
+    "05" : {
+      "image" : "https://images.unsplash.com/photo-1529220502050-f15e570c634e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name" : "Other Cleaning"
+    }
+  },
+  "Cleanings" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+    "description" : "Worker will come to clean for 2 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1541194491029-67f102f9c18a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "menuId" : "01",
+    "name" : "2 Hours",
+    "price" : "20"
+  }, {
+    "description" : "Worker will come to clean for 4 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1523286877159-d9636545890c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "menuId" : "01",
+    "name" : "4 Hours",
+    "price" : "40"
+  }, {
+    "description" : "Worker will come to clean for 6 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1484335629320-0e089b87a106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "menuId" : "01",
+    "name" : "6 Hours",
+    "price" : "60"
+  }, {
+    "description" : "Worker will come to clean for 8 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1543168449-582b8edc70a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "01",
+    "name" : "8 Hours",
+    "price" : "80"
+  }, {
+    "description" : "Worker will come to clean for 10 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1522448023466-b1c85da46df0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "01",
+    "name" : "10 Hours",
+    "price" : "100"
+  }, {
+    "description" : "Worker will come to clean for 2 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1541194491029-67f102f9c18a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "menuId" : "02",
+    "name" : "2 Hours",
+    "price" : "30"
+  }, {
+    "description" : "Worker will come to clean for 4 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1523286877159-d9636545890c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "menuId" : "02",
+    "name" : "4 Hours",
+    "price" : "60"
+  }, {
+    "description" : "Worker will come to clean for 6 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1484335629320-0e089b87a106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "menuId" : "02",
+    "name" : "6 Hours",
+    "price" : "90"
+  }, {
+    "description" : "Worker will come to clean for 8 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1543168449-582b8edc70a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "02",
+    "name" : "8 Hours",
+    "price" : "120"
+  }, {
+    "description" : "Worker will come to clean for 10 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1522448023466-b1c85da46df0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "02",
+    "name" : "10 Hours",
+    "price" : "150"
+  }, {
+    "description" : "Worker will come to clean for 2 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1541194491029-67f102f9c18a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "menuId" : "03",
+    "name" : "2 Hours",
+    "price" : "40"
+  }, {
+    "description" : "Worker will come to clean for 4 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1523286877159-d9636545890c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "menuId" : "03",
+    "name" : "4 Hours",
+    "price" : "80"
+  }, {
+    "description" : "Worker will come to clean for 6 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1484335629320-0e089b87a106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "menuId" : "03",
+    "name" : "6 Hours",
+    "price" : "120"
+  }, {
+    "description" : "Worker will come to clean for 8 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1543168449-582b8edc70a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "03",
+    "name" : "8 Hours",
+    "price" : "160"
+  }, {
+    "description" : "Worker will come to clean for 10 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1522448023466-b1c85da46df0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "03",
+    "name" : "10 Hours",
+    "price" : "200"
+  }, {
+    "description" : "Worker will come to clean for 2 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1541194491029-67f102f9c18a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "menuId" : "04",
+    "name" : "2 Hours",
+    "price" : "25"
+  }, {
+    "description" : "Worker will come to clean for 4 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1523286877159-d9636545890c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "menuId" : "04",
+    "name" : "4 Hours",
+    "price" : "45"
+  }, {
+    "description" : "Worker will come to clean for 6 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1484335629320-0e089b87a106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "menuId" : "04",
+    "name" : "6 Hours",
+    "price" : "65"
+  }, {
+    "description" : "Worker will come to clean for 8 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1543168449-582b8edc70a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "04",
+    "name" : "8 Hours",
+    "price" : "85"
+  }, {
+    "description" : "Worker will come to clean for 10 hours. Number of worker can adjust by using the number of button.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1522448023466-b1c85da46df0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "04",
+    "name" : "10 Hours",
+    "price" : "105"
+  }, {
+    "description" : "Cleaning and checking air filter, front panel and cover. Vacuuming the drainage system. Checking compresor suction and discharge pressure.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1550998251-1e18917c975c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "menuId" : "05",
+    "name" : "Aircon Cleaning",
+    "price" : "100"
+  }, {
+    "description" : "Outside wash which removes the dirt and grime from your paint, glass, plastic trims, wheels, chrome and exhaust tip.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1544215679-40aa1cd19376?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1108&q=80",
+    "menuId" : "05",
+    "name" : "Car Washing",
+    "price" : "20"
+  }, {
+    "description" : "Washing the outside of the hood, cleaning underneath the hood, cleaning the filter.",
+    "discount" : "0",
+    "image" : "https://lda.lowes.com/is/image/Lowes/content-panel-desktop?src=Lowes/DP18-6785_031218_RangeHoods_dt_cp_3-3_IslandRangeHoods",
+    "menuId" : "05",
+    "name" : "Range Hood Cleaning",
+    "price" : "20"
+  }, {
+    "description" : "Remove the stubborn, lime scale that build up and residue in your washes.",
+    "discount" : "0",
+    "image" : "https://images.unsplash.com/photo-1510551310160-589462daf284?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80",
+    "menuId" : "05",
+    "name" : "Washing Machine Cleaning",
+    "price" : "50"
+  } ],
+  "Requests" : {
+    "1551434259387" : {
+      "address" : "Uum",
+      "cleanings" : [ {
+        "discount" : "0",
+        "price" : "100",
+        "productId" : "31",
+        "quantity" : "2"
+      }, {
+        "discount" : "0",
+        "price" : "1000",
+        "productId" : "37",
+        "quantity" : "4"
+      } ],
+      "name" : "Koksheng",
+      "phone" : "0173918920",
+      "status" : "1",
+      "total" : "$4,200.00"
+    },
+    "1551434297016" : {
+      "address" : "Changlun",
+      "cleanings" : [ {
+        "discount" : "0",
+        "price" : "80",
+        "productId" : "25",
+        "quantity" : "1"
+      } ],
+      "name" : "Koksheng",
+      "phone" : "0173918920",
+      "status" : "2",
+      "total" : "$80.00"
+    },
+    "1551472416578" : {
+      "address" : "Lot No 41 & 42, Pekan Baru Changlun, 06010 Kedah",
+      "cleanings" : [ {
+        "discount" : "0",
+        "price" : "100",
+        "productId" : "16",
+        "productName" : "6 Hours",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "40",
+        "productId" : "14",
+        "productName" : "2 Hours",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "1000",
+        "productId" : "36",
+        "productName" : "Range Hood Cleaning",
+        "quantity" : "1"
+      } ],
+      "name" : "Koksheng",
+      "phone" : "0173918920",
+      "status" : "2",
+      "total" : "$1,140.00"
+    },
+    "1551633680572" : {
+      "address" : "200 Carriann Cover Trl",
+      "cleanings" : [ {
+        "discount" : "0",
+        "price" : "80",
+        "productId" : "20",
+        "productName" : "4 Hours",
+        "quantity" : "1"
+      } ],
+      "name" : "Koksheng",
+      "phone" : "0173918920",
+      "status" : "0",
+      "total" : "$80.00"
+    }
+  },
+  "User" : {
+    "0121234567" : {
+      "IsStaff" : "false",
+      "name" : "Pogba",
+      "password" : "123123"
+    },
+    "123123123" : {
+      "IsStaff" : "false",
+      "name" : "Alita",
+      "password" : "123456"
+    },
+    "0123456789" : {
+      "IsStaff" : "false",
+      "Password" : "123123",
+      "name" : "Watson"
+    },
+    "0171234567" : {
+      "IsStaff" : "true",
+      "Password" : "123123",
+      "name" : "KokshengGue"
+    },
+    "0173918920" : {
+      "IsStaff" : "false",
+      "Password" : "123123",
+      "name" : "Koksheng"
+    },
+    "1234512345" : {
+      "isStaff" : "false",
+      "name" : "Alita Gue",
+      "password" : "123456"
+    }
+  }
+}

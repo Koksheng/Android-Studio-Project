@@ -1,0 +1,47 @@
+{
+  "User" : {
+    "123123123" : {
+      "Name" : "Watson",
+      "Password" : "123123"
+    },
+    "0173918920" : {
+      "Name" : "Koksheng",
+      "Password" : "123123"
+    }
+  },
+  
+  "Category": {
+    "01": {
+      "Name": "4h1w",
+      "Image": "https://img.grouponcdn.com/deal/2S829feWQvsr1EjAghUvTbNdo4Ke/2S-1024x615/v1/c700x420.jpg"
+    },
+    "02": {
+      "Name": "4h2w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=afKNCyipCJrFyM:&imgrc=oxhZCKIHF9tOzM:"
+    },
+    "03": {
+      "Name": "8h1w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=EybSPfLGuJqKRM:&imgrc=oxhZCKIHF9tOzM:"
+    },
+    "04": {
+      "Name": "8h2w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=A-oMGtANH4LBfM:&imgrc=oxhZCKIHF9tOzM:"
+    },
+    "05": {
+      "Name": "P4h1w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgrc=oxhZCKIHF9tOzM:"
+    },
+    "06": {
+      "Name": "P4h2w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=afKNCyipCJrFyM:&imgrc=oxhZCKIHF9tOzM:"
+    },
+    "07": {
+      "Name": "P8h1w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=EybSPfLGuJqKRM:&imgrc=oxhZCKIHF9tOzM:"
+    },
+    "08": {
+      "Name": "P8h2w",
+      "Image": "https://www.google.com/search?q=cleaning+services&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL3oaU1dzgAhXHh3AKHQjHAJ4Q_AUIDigB&biw=1536&bih=754#imgdii=A-oMGtANH4LBfM:&imgrc=oxhZCKIHF9tOzM:"
+    }
+	}
+}
