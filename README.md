@@ -1,4 +1,4 @@
-# Android-Studio-Project
+# ProClean Services App (Customer）
 # Developing of Cleaning Services Android Application: ProClean Services App
 ![ProClean](https://user-images.githubusercontent.com/33799735/58864672-c4de9680-86e7-11e9-84f7-a6371b0c0466.jpg)
 ## Getting Started
